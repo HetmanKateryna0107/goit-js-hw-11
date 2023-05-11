@@ -5,12 +5,18 @@
     justify-content: center;
    
 }
+.search-form{
+    padding-top:15px;
+    padding-bottom:15px;
+     background-color: aquamarine;
+ 
+}
 .container{
     width: 1300px;
  
 }
 button{
-    background-color: rgb(79, 79, 244);
+    background-color: rgb(225, 202, 172);
     border-radius: 5px;
 padding: 5px;
     border-color:black;
