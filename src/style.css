@@ -1,0 +1,17 @@
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+   
+}
+.container{
+    width: 1300px;
+ 
+}
+button{
+    background-color: rgb(79, 79, 244);
+    border-radius: 5px;
+padding: 5px;
+    border-color:black;
+}
